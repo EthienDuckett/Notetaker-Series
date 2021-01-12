@@ -1,6 +1,5 @@
 # are there any tools to inspect the code the python interpreter creates when supplied with python code?
 import collection
-import processinput 
 # may be useful for threading the functions pyglet comes with, 
 # also I only need to use one of the functions and take all the values it has
 import button
