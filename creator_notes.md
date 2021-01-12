@@ -2,7 +2,7 @@ this project was not a great idea but it has taught me something, I will probabl
 
 Possible upcoming features and estimated time of arrival:
 which would be at least 3 more versions
-'threading' - ETA: <3 days
+~~'threading' - ETA: <3 days~~
 polishing, buttons for user, hotkeys - ETA: >1 week (because of school)
 coming up with a system that will implement HTML into the notes (this is only a possibility) - ETA: >1 week-never
 loading notes from json file/auto-save
