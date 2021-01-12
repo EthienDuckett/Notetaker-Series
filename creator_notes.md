@@ -15,7 +15,6 @@ exporting notes to an actual format
 option to make the background 'invisible' so you can see stuff when you write
 
 custom protocol for sharing notes
-
 protocol extended to update notes in real time - ETA: >6 weeks
 
 
